@@ -1,0 +1,26 @@
+{
+  "name": "workwithgulp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "gulp test"
+  },
+  "author": "Kaa",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-css-spriter": "^0.3.3",
+    "gulp-csslint": "^0.3.1",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-imagemin": "^3.0.2",
+    "gulp-jshint": "^2.0.1",
+    "gulp-uglify": "^1.5.4",
+    "gulp-uglifycss": "^1.0.6",
+    "imagemin-pngquant": "^5.0.0",
+    "jshint": "^2.9.2"
+  }
+}
